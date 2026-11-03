@@ -1,0 +1,5 @@
+# Needed to train on your computer (includes the server packages)
+-r requirements.txt
+pandas
+datasets
+matplotlib

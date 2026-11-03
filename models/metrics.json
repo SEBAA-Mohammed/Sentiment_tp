@@ -1,0 +1,20 @@
+{
+  "svm": {
+    "val_accuracy": 0.6826,
+    "test_accuracy": 0.6742,
+    "test_macro_f1": 0.6767,
+    "train_seconds": 0.38
+  },
+  "naive_bayes": {
+    "val_accuracy": 0.641,
+    "test_accuracy": 0.6317,
+    "test_macro_f1": 0.6328,
+    "train_seconds": 0.05
+  },
+  "random_forest": {
+    "val_accuracy": 0.6678,
+    "test_accuracy": 0.6767,
+    "test_macro_f1": 0.6779,
+    "train_seconds": 1.36
+  }
+}

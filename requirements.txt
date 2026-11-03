@@ -1,0 +1,7 @@
+# Needed by the web server (this is what Render installs)
+flask
+flask-cors
+gunicorn
+scikit-learn
+joblib
+numpy
